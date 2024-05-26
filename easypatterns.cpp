@@ -195,7 +195,7 @@
 //a b c d e
 //a b c d e
 
-//.............print number to number pattren........
+//.............print number in 5to5 squre pattren........
 //#include <iostream>
 //using namespace std;
 //int main()
@@ -218,3 +218,27 @@
 //16 17 18 19 20
 //21 22 23 24 25
 
+//.............print alphabets in 5to5 squre pattren........
+//#include <iostream>
+//using namespace std;
+//int main()
+//{ 
+  //int row,col;
+  //char name='a';
+  //for(row=1;row<=5;row=row+1)
+  //{
+   //for(col=1;col<=5;col=col+1)
+   //{
+    //cout<<name<<" ";
+     //name=name+1;
+   //}
+   //cout<<endl;
+  //}
+//}
+
+//......output.....
+//a b c d e 
+//f g h i j
+//k l m n o
+//p q r s t
+//u v w x y
