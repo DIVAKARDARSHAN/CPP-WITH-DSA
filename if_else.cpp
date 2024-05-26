@@ -125,7 +125,80 @@
   //cout<<fact;
 //}
 
+//..........[checking anual total income]...........
 
+//#include <iostream>
+//using namespace std;
+//int main()
+//{
+  //int income_a,income_b,income_c,sum,package,Tincome,Z;
+  //cout<<"choose how many income do you have\n 1\n 2\n 3\n ";
+  //Z=1,2,3;
+  //cin>>Z;
+  //if(Z==1)
+  //{
+    //cout<<"enter income a= ";
+    //cin>>income_a;
+    //cout<<"\nenter the package: ";
+    //cin>>package;
+    //Tincome=package+income_a;
+    //cout<<"your total earning anualy is: "<<Tincome<<endl;
+    //if(Tincome>=10)
+    //{
+     //cout<<"\nyes you can sustain in life";
+    //}
+    //else
+    //{
+     //cout<<"\nyou can't sustain in life";
+    //}
+  //}
+  //else if(Z==2)
+  //{ 
+    //cout<<"enter income a= ";
+    //cin>>income_a;
+    //cout<<"enter income b= ";
+    //cin>>income_b;
+    //sum=income_a+income_b;
+    //cout<<"the sum of the side income is: "<<sum<<endl;
+    //cout<<"\nenter the package: ";
+    //cin>>package;
+    //Tincome=package+sum;
+    //cout<<"your total earning anualy is: "<<Tincome<<endl;
+    //if(Tincome>=15)
+    //{
+     //cout<<"\nyes you can sustain in life";
+    //}
+    //else
+    //{
+     //cout<<"\nyou can't sustain in life";
+    //}
+  //}
+  //else
+  //{
+   //cout<<"enter income a= ";
+    //cin>>income_a;
+    //cout<<"enter income b= ";
+    //cin>>income_b;
+    //cout<<"enter income c= ";
+    //cin>>income_c;
+    //sum=income_a+income_b+income_c;
+    //cout<<"the sum of the side income is: "<<sum<<endl;
+    //cout<<"\nenter the package: ";
+    //cin>>package;
+    //Tincome=package+sum;
+    //cout<<"your total earning anualy is: "<<Tincome<<endl;
+    //if(Tincome>=20)
+    //{
+     //cout<<"\nyes you can sustain in life";
+    //}
+    //else
+    //{
+     //cout<<"\nyou can't sustain in life";
+    //}
+  //}
+//}
+
+#include <iosteram>
 
 
 
