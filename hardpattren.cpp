@@ -129,7 +129,7 @@
         //cout<<endl;
     //}
 //}
-//output
+//       output
 //enter the number : 5
 //
 // * * * * * * * * * *
@@ -184,7 +184,7 @@
         //cout<<endl;
     //}
 //}
-// output
+//      output
 //enter the number : 6
 //  *                     *
 //  * *                 * *
@@ -197,6 +197,7 @@
 //  * * *             * * *
 //  * *                 * *
 //  *                     *
+
 
 //.......................dimound pattren printing...............   
 //#include <iostream>
@@ -231,7 +232,7 @@
         //cout<<endl;
     //}
 //}
-//output
+//     output
 //enetr the number : 5
 //         *
 //       *   *
@@ -244,15 +245,55 @@
 //       *   *
 //         *
 
+//.......................half dimound pattren printing...............
+//#include <iostream>
+//using namespace std;
+//int main()
+//{
+    //int row,col,n;
+    //cout<<"enter the number: ";
+    //cin>>n;
+    //cout<<endl;
+    //for(row=1;row<=n;row=row+1)
+    //{
+        //for(col=1;col<=row;col=col+1)
+        //{
+            //cout<<"* ";
+       // }
+        //cout<<endl;
+    //}
+    //for(row=n-1;row>=1;row=row-1)
+        //{
+            //for(col=1;col<=row;col=col+1)
+             //{
+                //cout<<"* "; 
+            //}
 
+            //cout<<endl;
+        //}
+//}
+//     output
+//enter the number: 10
 
-
-
-
-
-
-
-
+//*
+//* *
+//* * *
+//* * * *
+//* * * * *
+//* * * * * * 
+//* * * * * * *
+//* * * * * * * *
+//* * * * * * * * *
+//* * * * * * * * * * 
+//* * * * * * * * *
+//* * * * * * * *
+//* * * * * * *
+//* * * * * * 
+//* * * * *
+//* * * *
+//* * *
+//* *
+//*
 
 
 
