@@ -1,5 +1,4 @@
  //......INDEX.......
-
  //square of n numbers
  //program to get even numbers output
  //program for fun
@@ -10,10 +9,9 @@
  //multiplication of n numbers (factroial)
  //[programe to find fibonacci for given number]
 
- //...................................................................................................................................................
+//...................................................................................................................................................
 
 //.............square of n numbers.............. 
-
 //#include<iostream>
 //using namespace std;
 //int main()
@@ -28,7 +26,6 @@
 //}
 
 //.............program to get even numbers output....................
-
 //#include <iostream>
 //using namespace std;
 //int main()
@@ -43,7 +40,6 @@
 //}
 
 //............program for fun................
-
 //#include <iostream>
 //using namespace std; 
 //int main()
@@ -63,7 +59,6 @@
 //}
 
 //..............checking given number odd/even and to write its square numbers..................
-
 //#include <iostream>
 //using namespace std;
 //int main()
@@ -90,7 +85,6 @@
 //}
 
 //.............program to print maths table......................
-
 //#include<iostream>
 //using namespace std;
 //int main()
@@ -105,7 +99,6 @@
 //}
 
 //............print alphabets.............
-
 //#include <iostream>
 //using namespace std;
 //int main()
@@ -121,7 +114,6 @@
 //}
 
 //......................sum of n natural numbers...........................
-
 //#include<iostream>
 //using namespace std;
 //int main()
@@ -137,7 +129,6 @@
 //}
 
 //...........multiplication of n numbers (factroial)...............
-
 //#include <iostream>
 //using namespace std;
 //int main()
@@ -153,7 +144,6 @@
 //}
 
 //..................[programe to find fibonacci for given number]..................... 
-
 //#include <iostream>
 //using namespace std;
 //int main()

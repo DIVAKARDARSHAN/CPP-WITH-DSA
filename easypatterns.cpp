@@ -17,7 +17,6 @@
     //cout<<endl;  
   //}
 //}
-
 //.....output.....
 //enter number of rows: 
 //enter number of columns: 5
@@ -25,8 +24,6 @@
 //* * * * * 
 //* * * * *
 //* * * * *
-
-
 
 //............printing number pattern normal order........
 //#include<iostream>
@@ -47,7 +44,6 @@
   //cout<<endl;
  //}
 //}
-
 //....output.....
 //enter number of row : 4
 //enter number of column : 4
@@ -75,7 +71,6 @@
   //cout<<endl;
 //}
 //}
-
 //.....output....
 //enter the number of row : 5
 //enter the number of col : 6
@@ -104,7 +99,6 @@
     //cout<<endl;
   //}
 //}
-
 //.....output....
 //enter the number of row : 5
 //enter the number of col : 5
@@ -133,7 +127,6 @@
     //cout<<endl;
   //}
 //}
-
 //.....output....
 //nter number of row : 5
 //user number of column : 5
@@ -162,7 +155,6 @@
     //cout<<endl;
   //}
 //}
-
 //.....output....
 //enter the number of row : 4
 //enter the number of columan : 4
@@ -187,7 +179,6 @@
   //cout<<endl;
  //}
 //}
-
 //.....output....
 //a b c d e 
 //a b c d e
@@ -210,7 +201,6 @@
    //cout<<endl; 
  //}  
 //}
-
 //.....output....
 //1 2 3 4 5 
 //6 7 8 9 10
@@ -235,7 +225,6 @@
    //cout<<endl;
   //}
 //}
-
 //......output.....
 //a b c d e 
 //f g h i j

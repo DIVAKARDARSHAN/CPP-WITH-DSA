@@ -126,11 +126,10 @@
 //}
 
 //..........[checking anual total income]...........
-
-//#include <iostream>
-//using namespace std;
-//int main()
-//{
+ //#include <iostream>
+ //using namespace std;
+ //int main()
+ //{
   //int income_a,income_b,income_c,sum,package,Tincome,Z;
   //cout<<"choose how many income do you have\n 1\n 2\n 3\n ";
   //Z=1,2,3;
