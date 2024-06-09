@@ -53,9 +53,10 @@ int main()
     int i=1,sum=0,n;
     cout<<"entir the number: ";
     cin>>n;
-    do
-    {
-      cout<<sum+i;
-      i=i+1;
-    }while(i<=n);
+    // do
+    // {
+    //   cout<<sum+i;
+    //   sum=sum+i;
+    //   i=i+1;
+    // }while(i<=n);
 }
