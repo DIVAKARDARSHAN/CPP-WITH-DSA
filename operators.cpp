@@ -118,3 +118,95 @@
      //cout<<"\nno a is not equals to b";
    //}
 
+//............................................................................................................................................
+  
+//.................logical operators....................
+//......................{&&,||,!}...................
+// #include <iostream>
+// using namespace std;
+// int main()
+// { 
+    //......AND......
+    // int a,b,c;
+    // cout<<"enter the number for a & b & c: ";
+    // cin>>a>>b>>c;
+    // if(a>b&&a>c)
+    // {
+    //     cout<<"its true";
+    // }
+    // else
+    // {
+    //     cout<<"its not true";
+    // }
+    //........OR.........
+    // char name;
+    // cout<<"enter a character: ";
+    // cin>>name;
+    // if(name=='a'||name=='e'||name=='i'||name=='o'||name=='u')
+    // cout<<"vowels";
+    // else
+    // cout<<"consonants";
+    //...........NOT...........
+    // int a;
+    // cout<<"enter the number: ";
+    // cin>>a;
+    // if(a>1)
+    // {
+    //     cout<<!a;
+    // }
+    // else
+    // {
+    //   cout<<!a;
+    // }
+// }
+
+//..................................................................................................................................................
+
+//.................bitwise operators....................
+//..................{&,|,^,~,<<,>>}...................
+// #include <iostream>
+// using namespace std;
+// int main()
+// { 
+ //.........AND operator.........
+    // int ans=3&2;
+    // cout<<ans<<endl;
+ //.........OR operator.........
+    //  int ans=3|2;
+    //  cout<<ans<<endl;
+ //.........EX-OR operator.........
+    //  int ans=3^2;
+    //  cout<<ans<<endl;
+ //.........left shift operator.........
+    //  int ans=3<<2;
+    //  cout<<ans<<endl;
+ //.........right shift operator.........
+    //  int ans=3>>2;
+    //  cout<<ans<<endl;
+// }
+ 
+//................................................................................................................................................................... 
+
+//.................assignment operator...............
+//..................{*=,%=,+=,-=,/=}...............
+//  #include <iostream>
+//  using namespace std;
+//  int main()
+//  { 
+   //int a=4,b=5;
+   //a+=b;
+   //cout<<a;
+   //   int a=4,b=5;
+    //   a-=b; 
+    //   cout<<a;
+        //  int a=4,b=5;
+        //  a%b; 
+        //  cout<<a;
+            //  int a=4,b=5;
+            //  a*=b; 
+            //  cout<<a;
+          //  int a=4,b=5;
+                //  a/=b; 
+                //  cout<<a;
+
+//  }
