@@ -46,17 +46,32 @@
 // }
     
 //..................printing sum of number in do-while..............
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int i=1,sum=0,n;
+//     cout<<"entir the number: ";
+//     cin>>n;
+//     do{
+//         sum=sum+i;
+//         i++;
+//     }while(i<=n);
+//     cout<<sum;
+// }
+
 #include <iostream>
 using namespace std;
 int main()
 {
-    int i=1,sum=0,n;
-    cout<<"entir the number: ";
-    cin>>n;
-    // do
-    // {
-    //   cout<<sum+i;
-    //   sum=sum+i;
-    //   i=i+1;
-    // }while(i<=n);
+  int i=1;
+ while(i<=10)
+ {
+    if(i==4)
+    {
+        continue;
+    }
+    cout<<i<<" ";
+    i++;
+  } 
 }
