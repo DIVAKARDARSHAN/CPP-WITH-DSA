@@ -1,4 +1,4 @@
-//..................grtting even/odd numbers...................
+//..................grtting even/odd numbers using while loop...................
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -30,7 +30,7 @@
 //     }
 // }
 
-//..................printing maths tables...................
+//..................printing maths tables using while loop...................
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -60,18 +60,110 @@
 //     cout<<sum;
 // }
 
-#include <iostream>
-using namespace std;
-int main()
-{
-  int i=1;
- while(i<=10)
- {
-    if(i==4)
-    {
-        continue;
-    }
-    cout<<i<<" ";
-    i++;
-  } 
-}
+//......................printing maths tables uaing do-while loop....................
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//   int i=1,n;
+//   cout<<"enter the number: ";
+//   cin>>n;
+//   do{ 
+//     cout<<n<<'*'<<i<<'='<<n*i<<endl;
+//     i++;
+//   }while(i<=10);
+// }
+
+//............break statement in for loop...............
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+// for (int i = 0; i < 10; i++) {
+//   if (i == 5) {
+//     break;
+//   }
+//   cout << i << "\n";
+// }
+// }
+
+//............continue statement for loop...............
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+// for (int i = 0; i < 10; i++) {
+//   if (i == 5) {
+//     continue;
+//   }
+//   cout << i << "\n";
+// }
+// }
+//............break statement in while loop...............
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+// int i = 0;
+// while (i < 10)
+//  {
+//   cout << i << "\n";
+//   i++;
+//   if (i == 7)
+//    {
+//     break;
+//    }
+//  }
+// }
+
+//............continue statement in while loop...............
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+// int i = 0;
+// while (i < 10)
+//  {
+//    i++;
+//    if (i == 6)
+//    {
+//     continue;
+//    }
+//   cout << i << "\n";
+// }
+// }
+
+//.................continue statement in do-while loop...................
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//   int i = 0;
+//   do
+//   {
+//    i++;
+//    if(i==6)
+//    {
+//     continue;
+//    }
+//    cout<<i<<" ";
+//   } while (i < 10);
+// }
+
+//.................break statement in do-while loop...................
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//   int i = 1;
+//   do
+//   {
+//    if(i==6)
+//    {
+//     break;
+//    }
+//    cout<<i<<" ";
+//    i++;
+//   } while (i < 10);
+// }
+
