@@ -1,3 +1,9 @@
+// while 
+// do-while 
+// break 
+// continue
+// switch 
+
 //..................grtting even/odd numbers using while loop...................
 // #include <iostream>
 // using namespace std;
@@ -99,6 +105,7 @@
 //   cout << i << "\n";
 // }
 // }
+
 //............break statement in while loop...............
 // #include <iostream>
 // using namespace std;
@@ -165,5 +172,26 @@
 //    cout<<i<<" ";
 //    i++;
 //   } while (i < 10);
-// }
+// } 
 
+//..................option checking using switch statement..................
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     char x;
+//     cout<<"select any opption \n a\n b\n c"<<"\n";
+//     cin>>x; 
+//     switch (x)
+//     {
+//     case 'a':
+//         cout<<"your lover is ganesh";
+//         break;
+//     case 'b':
+//         cout<<"your lover is mahesh";
+//         break;
+//     default:
+//     cout<<"your lover is lowda";
+//         break;
+//     }
+// }
