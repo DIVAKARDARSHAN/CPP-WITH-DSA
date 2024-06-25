@@ -1,4 +1,4 @@
-// //...............decimal to binary..........
+//...............decimal to binary..........
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -69,25 +69,29 @@
 //   }
 //   cout<<ans;
 // }
-
-//...............binary to octal.................
+ 
+//...............binary to octal.............. 
 // #include <iostream>
 // using namespace std;
 // int main()
 // {
-//     int num,ans=0,rem,mul=1,temp;
+//     int num,ans=0,rem,mul=1,ans1=0;
 //     cout<<"enter the binary number: ";
 //     cin>>num;
 //     while(num!=0)
 //     {
 //         rem=num%10;
-//         num=num/10;
+//         num=num/10;                                            //  <------- (yet to complete/not solved)
 //         ans=rem*mul+ans;
 //         mul=mul*2;
-//          rem=num%8;
-//         num=num/8;
-//         ans=rem*mul+ans;
-//         mul=mul*10;
+//        cout<<ans;
 //     }
-//     cout<<ans;
+//      while(ans!=0)
+//      { 
+//          rem=ans%8;
+//          num=ans/8;
+//          ans1=rem*mul+ans1;
+//          mul=mul*10;
+//      }
+//     cout<<ans1;
 // }
