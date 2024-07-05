@@ -97,13 +97,6 @@
 //     m=n;
 //     n=o;
 // }
-// void swap(float &c,float &d)
-// {
-//     float k;
-//     k=c;
-//     c=d;
-//     d=k;
-// }
 // int main()
 // {
 //     int a,b;
@@ -111,7 +104,33 @@
 //     cin>>a>>b;
 //     swap(a,b);
 //     cout<<a<<" "<<b<<endl;
-//     float c=3.33,d=4.44;
-//     swap(c,d);
-//      cout<<c<<" "<<d;
 // }
+
+//.................function over loading...................
+//   #include <iostream>
+//   using namespace std;
+//   void swap(int &m,int &n)
+//  {
+//      int o;
+//      o=m;
+//      m=n;                          //same function name with different parameter type
+//      n=o;
+//  } 
+//  void swap(float &k,float &l)
+//  {
+//      float r;
+//      r=k;
+//      k=l;
+//      l=r;
+//  } 
+//  int main()
+//  {
+//      int a,b;
+//      cout<<"enter the number: ";
+//      cin>>a>>b;
+//      swap(a,b);
+//      cout<<a<<" "<<b<<endl;
+//      float f1=8.91,f2=5.8;
+//      swap(f1,f2);
+//      cout<<f1<<" "<<f2;
+//  }
