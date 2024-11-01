@@ -45,7 +45,7 @@
  //}
 //}
 //....output.....
-//enter number of row : 4
+//enter number of row : 4rrrr
 //enter number of column : 4
 //1 1 1 1
 //2 2 2 2
