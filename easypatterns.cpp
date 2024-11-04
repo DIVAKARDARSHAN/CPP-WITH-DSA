@@ -80,18 +80,18 @@
 //2 2 2 2 2 2
 //1 1 1 1 1 1 
 
-//.............printing number pattren from right side.......
-//#include<iostream>
-//using namespace std;
-//int main()
-//{
-  //int row,col,i,j;
-  //cout<<"enter the number of rows : ";
-  //cin>>row;
-  //cout<<"enter the number of columns : ";
-  //cin>>col;
-  //for(i=row;i>=1;i=i-1)
-  //{
+// .............printing number pattren from right side.......
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//   int row,col,i,j;
+//   cout<<"enter the number of rows : ";
+//   cin>>row;
+//   cout<<"enter the number of columns : ";
+//   cin>>col;
+//   for(i=row;i>=1;i=i-1)
+//   {
     //for(j=col;j>=1;j=j-1)
     //{
       //cout<<j<<" ";
@@ -110,7 +110,7 @@
 
 //............printing number pattren from left side........
 //#include <iostream>
-//using namespace std;
+//using namespace std;   
 //int main()
 //{
   //int row,col;
